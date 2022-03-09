@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Time Fighter</string>
+    <string name="yourScore">Your Score: %1$d</string>
+    <string name="timeLeft">Time Left: %1$d</string>
+    <string name="TapMe">Tap Me!</string>
+    <string name="gameOverMessage">Times up! Your score is: %1$d</string>
+    <string name="restartGame">Restart game by tapping the \'Tap Me!\' button</string>
+    <string name="help">"This is a game where you fight time. Every time you tap the 'Tap Me!' button below, your score increments by 1. You have %1$d seconds to tap the button as many number of times as you can. LETS PLAY!"</string>
+    <string name="seconds15">15 seconds</string>
+    <string name="seconds30">30 seconds</string>
+    <string name="seconds60">60 seconds</string>
+</resources>
